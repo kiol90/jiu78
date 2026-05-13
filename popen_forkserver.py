@@ -1,4 +1,5 @@
 import io
+
 import os
 
 from .context import reduction, set_spawning_popen
